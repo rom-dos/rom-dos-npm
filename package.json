@@ -1,0 +1,7 @@
+{
+  "name": "rom-dos-npm",
+  "version": "1.0.0",
+  "bin": {
+    "rom-dos-npm": "index.js"
+  }
+}
